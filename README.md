@@ -1,5 +1,7 @@
 # ring-buffer-c
 
+![CI](https://github.com/mervesulltan/ring-buffer-c/actions/workflows/ci.yml/badge.svg)
+
 A lightweight, malloc-free ring (circular) buffer library in C, designed for embedded systems such as UART receive buffers.
 
 ## Features
